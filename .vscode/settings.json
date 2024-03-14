@@ -59,6 +59,12 @@
         "semaphore": "cpp",
         "sstream": "cpp",
         "stop_token": "cpp",
-        "thread": "cpp"
+        "thread": "cpp",
+        "bitset": "cpp",
+        "forward_list": "cpp",
+        "scoped_allocator": "cpp",
+        "span": "cpp",
+        "regex": "cpp",
+        "syncstream": "cpp"
     }
 }
