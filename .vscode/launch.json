@@ -1,6 +1,19 @@
 {
     "configurations": [
         {
+            "type": "java",
+            "name": "李姐-调试java",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "LJ_code.java.test1",
+            "projectName": "leetcode_2d1e5f9a"
+        },
+        {
             "name": "(gdb) 启动",
             "type": "cppdbg",
             "request": "launch",
